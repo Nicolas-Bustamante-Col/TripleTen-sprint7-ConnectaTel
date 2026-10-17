@@ -5,7 +5,7 @@ El siguiente repositorio contiene los datasets y el notebook utilizados para el 
 Identificar el perfil demográfico y los hábitos de consumo de los clientes de ConnectaTel para evaluar el desempeño de los planes comerciales actuales, con especial atención en el Plan Premium, y detectar oportunidades de mejora en el portafolio de servicios.
 
 ## 📊 Datasets Utilizados
-El análisis integra tres datasets relacionados mediante el identificador único `user_id`:
+El análisis integra tres datasets relacionados mediante identificadores `user_id` y `plan`:
 *   `users`: Información demográfica de los clientes incluyendo edad, ciudad, fecha de registro y fecha de cancelación del servicio.
 *   `usage`: Registros detallados de consumo incluyendo eventos de llamada, duración en minutos y longitud de mensajes de texto enviados.
 *   `plans`: Catálogo de planes comerciales, con sus parámetros, características y tarifas base para los planes Básico y Premium.
@@ -30,7 +30,7 @@ Si deseas replicar todo el flujo de trabajo en tu entorno local (Jupyter Noteboo
 
 1. **Clonar el repositorio:**
    ```
-   git clone [https://github.com](https://github.com/Nicolas-Bustamante-Col/TripleTen-sprint7-ConnectaTel)
+   git clone https://github.com/Nicolas-Bustamante-Col/TripleTen-sprint7-ConnectaTel.git
    cd TripleTen-sprint7-ConnectaTel
    ```
 2. **Instalar dependencias:** Instala las librerías necesarias ejecutando en tu terminal:
