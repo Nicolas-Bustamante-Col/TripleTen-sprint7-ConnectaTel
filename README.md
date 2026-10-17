@@ -23,7 +23,7 @@ El análisis integra tres datasets relacionados mediante el identificador único
 Puedes visualizar y ejecutarl el análisis de forma inmediata en Gooble Colab:
 
 1. Descarga el archivo `.ipynb` de este repositorio.
-2. Ve a [Google Colab](https://google.com) e inicia sesión con tu cuenta de Google.
+2. Ve a [Google Colab](https://colab.research.google.com/) e inicia sesión con tu cuenta de Google.
 3. Selecciona Archivol → Subir notebook y carga el archivo descargado.
 4. Ejecuta las celdas en orden, utilizando el botón de ejecución de cada celda o Shift + Enter.
 
