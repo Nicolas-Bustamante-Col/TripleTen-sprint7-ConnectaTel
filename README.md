@@ -32,7 +32,7 @@ Si deseas replicar todo el flujo de trabajo en tu entorno local (Jupyter Noteboo
 
 1. **Clonar el repositorio:**
    ```
-   git clone [https://github.com](https://github.com/Nicolas-Bustamante-Col/TripleTen-sprint7-ConnectaTel/edit/main/README.md)
+   git clone [https://github.com](https://github.com/Nicolas-Bustamante-Col/TripleTen-sprint7-ConnectaTel)
    cd TripleTen-sprint7-ConnectaTel
    ```
 2. **Instalar dependecias:** Instala las librerías necesarias ejecutando en tu terminal:
